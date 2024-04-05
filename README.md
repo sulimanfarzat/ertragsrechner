@@ -1,0 +1,2 @@
+# ertragsrechner
+ERTRAGSRECHNER FÜR BALKONKRAFTWERKE
